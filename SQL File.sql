@@ -6,3 +6,4 @@ SELECT * FROM ejemplo.persona;
 UPDATE ejemplo.persona 
 
 DELETE FROM ejemplo.persona WHERE Id = 2
+
